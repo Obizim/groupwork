@@ -32,7 +32,7 @@
           <div
             class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl"
           >
-            <a href="https://flowbite.com" class="flex items-center">
+            <a href="/" class="flex items-center">
               <img
                 src="https://ik.imagekit.io/fmxqscuev/icons8-lessons-64_pdvEMVgCW.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666292631783"
                 class="mr-3 h-6 sm:h-9"
@@ -109,7 +109,6 @@
               if (item.id === id) {
                 return true;
               }
-
               return false;
             });
           },
@@ -126,9 +125,9 @@
                 );
 
                 this.cart = this.cart.map((item) => {
-                  if (item.id === cartItem.id) {
+                  if (item.id === cartItem.id)
                     return { ...item, spaces: ++cartItem.spaces };
-                  }
+                  return item;
                 });
               }
             }

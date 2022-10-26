@@ -1,8 +1,8 @@
 # Coursework-1
 
-This is a group project where one lesson object containing at least the subject, location, price, and no spaces is displayed to the user.
+This is a group project where one lesson object containing at least the subject, location, price, and number of spaces is displayed to the user.
 
-The lesson with max number of five spaces is then added to cart while the spaces reduce.
+The lesson with max number of five spaces is then added to cart while the number of available space reduce.
 
 ## Technologies
 1. Vue.js
