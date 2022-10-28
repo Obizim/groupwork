@@ -12,3 +12,11 @@ The lesson with max number of five spaces is then added to cart while the number
 Github repository : https://github.com/Obizim/groupwork-1
 
 Github Pages Link : https://obizim.github.io/groupwork-1/
+
+## Members of Group
+- Zimuzo Obi
+- Saidhbh Evans
+- Sayma Jahan Koley
+- Bayan Tameem
+- Freeman Madudili
+- Mohammed Numan Hussain
