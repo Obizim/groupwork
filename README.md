@@ -9,9 +9,9 @@ The lesson with max number of five spaces is then added to cart while the number
 2. Tailwind Css (for styling)
 
 
-Github repository : https://github.com/Obizim/groupwork-1
+Github repository : https://github.com/Obizim/groupwork
 
-Github Pages Link : https://obizim.github.io/groupwork-1/
+Github Pages Link : https://obizim.github.io/groupwork
 
 ## Members of Group
 - Zimuzo Obi
